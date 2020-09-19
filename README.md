@@ -1,2 +1,2 @@
 # news-article
- news article assignment
+ news article assignment draft one
